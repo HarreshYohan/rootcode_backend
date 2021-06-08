@@ -30,14 +30,14 @@ npm run clean
 
 
 ### payload json for post creation 
-{"title":"test",
-	"description": "test",
+{"title":"test_post",
+	"description": "test_description",
 	"colour": "black"
 }
 
 
 ### payload json for comment creation 
-{"comment":"test2",
+{"comment":"test_comment",
 	"post_id": 1
 }
 
